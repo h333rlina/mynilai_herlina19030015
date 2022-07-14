@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyNilai_Herlina</string>
+    <string-array name="numbers">
+        <item>Mobile Computing</item>
+        <item>B.Inggris</item>
+        <item>Manajemen Proyek</item>
+        <item>Sistem Informasi Berbasis Web</item>
+        <item>Komputasi Cerdas</item>
+    </string-array>
+</resources>
